@@ -21,14 +21,12 @@ The ambiguity effect tends to come up often during planning.  Imagine an agile t
 
 D> ## Planning poker scenario:
 D>
-D> Product owner just finished reading a user story and is discussing the acceptance criteria with the team.  
+D> *Product owner just finished reading a user story and is discussing the acceptance criteria with the team.*  
 D>
-D> Team member A: We need a mockup for that before we can size it.  
+D> **Team member A:** We need a mockup for that before we can size it.  
 D>
-D> Team member B: Yes, we really should have mockups for all stories otherwise we just need to pad the size of the story to factor in the unknowns.
+D> **Team member B:** Yes, we really should have mockups for all stories otherwise we just need to pad the size of the story to factor in the unknowns.
 
-This scenario is very common for teams who are transitioning to agile.  The reality of the matter is that the story is exactly the same size whether it has a mockup or not.  However, team members will feel more comfortable sizing stories that have little to no ambiguity.
+This scenario is very common for teams who are transitioning to agile.  The reality of the matter is that the story is exactly the same size whether it has a mockup or not.  However, team members will feel more comfortable sizing stories that have little to no ambiguity because they falsely equate ambiguity with risk.
 
-T> ## Product Owner Tip:
-T>
-T> Learn what triggers the team's ambiguity effect and try to write user stories that avoid hitting it.  A low-fidelity mockup may take 30 minutes of your time but could remove a lot of doubt and worry from team members.
+The concepts of ambiguity and risk are not the same.  Ambiguity, in this scenario, is merely the presence of multiple solutions that could correctly fulfill the requirements of the story.  There is nothing inherently risky in that.  As agile team members, we must strive to become masters of recognizing when we are reacting to ambiguity as if it were risk.
