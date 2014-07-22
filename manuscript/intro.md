@@ -1,6 +1,10 @@
 #Introduction
 
-This book is a guide to those who are mastering the Agile craft.  There are many frameworks that you could adopt with recipies for doing agile.  This book is intended to show how even the most well-intentioned agilists can be led astray by biases, decision-making traps and old habbits.
+This book is a guide to those who are mastering the Agile craft.  There are many frameworks that you could adopt with recipes for doing agile.  This book is intended to show how even the most well-intentioned agilists can be led astray by biases, decision-making traps and old habits.
+
+I> ## List of Cognitive Biases
+I>
+I> Many of the cognitive biases discussed in this book are detailed further on [Wikipedia](http://en.wikipedia.org/wiki/List_of_cognitive_biases) from a psychological point of view.
 
 ## About the Author
 
