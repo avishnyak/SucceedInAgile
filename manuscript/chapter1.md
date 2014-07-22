@@ -1,6 +1,6 @@
 # Decision-making, belief, and behavioral biases
 
-{width=30%,float=right}
+{width=40%,float=right}
 ![Mond-vergleich Illusion](images/1_optical-illusion.png)
 
 **Question: Which of the orange dots is bigger?**
