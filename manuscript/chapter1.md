@@ -22,10 +22,12 @@ The ambiguity effect tends to come up often during planning.  Imagine an agile t
 D> ## Planning poker scenario:
 D>
 D> Product owner just finished reading a user story and is discussing the acceptance criteria with the team.  
-D> Team member A: We need a mockup for that before we can size it.
+D>
+D> Team member A: We need a mockup for that before we can size it.  
+D>
 D> Team member B: Yes, we really should have mockups for all stories otherwise we just need to pad the size of the story to factor in the unknowns.
 
-This scenario is very common for teams who are transitioning to agile.  The reality of the matter is that the same story with or without a mockup is exactly the same size.  However, team members will feel more comfortable sizing stories that have little to no ambiguity.
+This scenario is very common for teams who are transitioning to agile.  The reality of the matter is that the story is exactly the same size whether it has a mockup or not.  However, team members will feel more comfortable sizing stories that have little to no ambiguity.
 
 T> ## Product Owner Tip:
 T>
